@@ -19,9 +19,12 @@ public class TestCondition {
             System.out.print("x more than  y");
 
 //if-else-if
-if (x<30) System.out.print("x less than30");
-else if(x>30) System.out.print("x more than 30");
-else System.out.print("x equal 30");
+if (x<30)
+    System.out.print("x less than30");
+else if(x>30)
+    System.out.print("x more than 30");
+else
+    System.out.print("x equal 30");
 
 
 
