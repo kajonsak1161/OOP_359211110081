@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813c0c31-0b0a-4124-a892-bb78061529e9" name="Default" comment="TestSwitch">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java" />
+    <list default="true" id="813c0c31-0b0a-4124-a892-bb78061529e9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab3/TestSwitch.java" afterPath="$PROJECT_DIR$/src/ooplab3/TestSwitch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab3/calGrade.java" afterPath="$PROJECT_DIR$/src/ooplab3/calGrade.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestWhileLoop.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestDoWhileLoop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestWhileLoop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            <state relative-caret-position="187">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -55,6 +63,7 @@
         <option value="$PROJECT_DIR$/src/ooplab3/TestLoopFor.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/calGrade.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/TestSwitch.java" />
+        <option value="$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java" />
       </list>
     </option>
@@ -138,15 +147,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestWhileLoop">
-    <configuration name="TestLoopFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestDoWhileLoop">
+    <configuration name="TestDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ooplab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab3.TestLoopFor" />
+      <option name="MAIN_CLASS_NAME" value="ooplab3.TestDoWhileLoop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -319,16 +328,16 @@
       <item index="0" class="java.lang.String" itemvalue="Application.TestVariable" />
       <item index="1" class="java.lang.String" itemvalue="Application.calGrade" />
       <item index="2" class="java.lang.String" itemvalue="Application.TestSwitch" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestLoopFor" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestDoWhileLoop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
-        <item index="1" class="java.lang.String" itemvalue="Application.calGrade" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestSwitch" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestVariable" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestLoopFor" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestDoWhileLoop" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.calGrade" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestSwitch" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511927127212</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TestWhileLoop">
+      <created>1512527916150</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1512527916150</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -400,7 +416,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26143792" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1503268" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -457,7 +473,8 @@
     <MESSAGE value="testCondition" />
     <MESSAGE value="calGrade" />
     <MESSAGE value="TestSwitch" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestSwitch" />
+    <MESSAGE value="TestWhileLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestWhileLoop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -532,14 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestLoopFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab3/TestSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -558,10 +567,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestLoopFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state relative-caret-position="187">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
