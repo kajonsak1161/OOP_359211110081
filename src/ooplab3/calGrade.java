@@ -8,6 +8,7 @@
 
 package ooplab3;
 
+
 import java.util.Scanner;
 
 public class calGrade {
@@ -23,7 +24,7 @@ public class calGrade {
                 else if (score<69) System.out.print("Your grade is C");
                     else if (score<79) System.out.print("Your grade is B");
                         else System.out.print("Your grade in A");
-                        break;
+
 
 
 

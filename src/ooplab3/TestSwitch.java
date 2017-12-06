@@ -13,7 +13,7 @@ public class TestSwitch {
             case 1:  System.out.print("Your entered 1");break;
             case 2:  System.out.print("Your entered 2");break;
             case 3:  System.out.print("Your entered 3");break;
-            default:  System.out.print("Number 1-3 only");
+            default:  System.out.print("Number 1-3 only.");
 
 
 
