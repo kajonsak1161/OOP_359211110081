@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813c0c31-0b0a-4124-a892-bb78061529e9" name="Default" comment="ClassandObject GetandSet">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab7/SuperCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab7/SuperCarApp.java" />
+    <list default="true" id="813c0c31-0b0a-4124-a892-bb78061529e9" name="Default" comment="SuperCar">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,6 +14,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SuperCarApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplab7/SuperCarApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab7/SuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -493,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516760603023</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="SuperCar">
+      <created>1516767420493</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1516767420493</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -579,7 +594,8 @@
     <MESSAGE value="myStringBuffer" />
     <MESSAGE value="3.1CalAge" />
     <MESSAGE value="ClassandObject GetandSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="ClassandObject GetandSet" />
+    <MESSAGE value="SuperCar" />
+    <option name="LAST_COMMIT_MESSAGE" value="SuperCar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -905,8 +921,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab7/SuperCarApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="301">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding />
         </state>
       </provider>
