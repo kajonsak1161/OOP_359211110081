@@ -1,64 +1,64 @@
 package ooplab8;
 
 import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class Person {
-    private class  Person {
-        private String name;
-        private String gender;
-        private SimpleDateFormat dateOfbirth;
-        private String age;
-        //contsructor เจนโค้ด Ale+insert+constructor
-        public Person(String name, String gender, SimpleDateFormat dateOfbirth, String age) {
-            this.name = name;
-            this.gender = gender;
-            this.dateOfbirth = dateOfbirth;
-            this.age = age;
-        }
+    private String name;
+    private String gender;
+    private Date dateOfBirth;
+    private int age;
+    //constructor
+    public Person(String name, String gender, Date dateOfBirth, int age) {
+        this.name = name;
+        this.gender = gender;
+        this.dateOfBirth = dateOfBirth;
+        this.age = age;
+    }
+    //toString()
 
-        //tosting เจนโค้ด Alt+insert+tosting
-        @Override   // การพ้องรูป Override ลักษณะเฉพาะ
-        public String toString() {
-            return "Person{" +
-                    "name='" + name + '\'' +
-                    ", gender='" + gender + '\'' +
-                    ", dateOfbirth=" + dateOfbirth +
-                    ", age='" + age + '\'' +
-                    '}';
-        }
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", gender='" + gender + '\'' +
+                ", dateOfBirth=" + dateOfBirth +
+                ", age=" + age +
+                '}';
+    }
 
-        //getter setter methods เจนโค้ด เก็ตเตอร์ เซ็ตเตอร์
+    //getter and setter methods
 
-        public String getName() {
-            return name;
-        }
 
-        public void setName(String name) {
-            this.name = name;
-        }
+    public String getName() {
+        return name;
+    }
 
-        public String getGender() {
-            return gender;
-        }
+    public void setName(String name) {
+        this.name = name;
+    }
 
-        public void setGender(String gender) {
-            this.gender = gender;
-        }
+    public String getGender() {
+        return gender;
+    }
 
-        public SimpleDateFormat getDateOfbirth() {
-            return dateOfbirth;
-        }
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
 
-        public void setDateOfbirth(SimpleDateFormat dateOfbirth) {
-            this.dateOfbirth = dateOfbirth;
-        }
+    public Date getDateOfBirth() {
+        return dateOfBirth;
+    }
 
-        public String getAge() {
-            return age;
-        }
+    public void setDateOfBirth(Date dateOfBirth) {
+        this.dateOfBirth = dateOfBirth;
+    }
 
-        public void setAge(String age) {
-            this.age = age;
-        }
-    }//class
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 }//class
