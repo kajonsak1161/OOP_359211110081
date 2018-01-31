@@ -9,6 +9,7 @@ public class SuperCar {
     private String SuperCarClass;
     public  SuperCar(){}
 
+
     public SuperCar(String a,String b,String c, String d,String e, String f){
         //assign data to properties ประกาศค่าเท่ากับตัวแปร
         this.CarBrand = a;
@@ -17,7 +18,7 @@ public class SuperCar {
         this.maxspeed = d;
         this.CountryOfOrigin = e;
         this.SuperCarClass = f;
-    }//Student
+    }//Supercar
 
     @Override
     public String toString() {
