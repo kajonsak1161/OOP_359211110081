@@ -17,8 +17,8 @@
       <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="279">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -520,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517367428282</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Inheritance:Student">
+      <created>1517367481926</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1517367481926</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -607,9 +614,9 @@
     <MESSAGE value="3.1CalAge" />
     <MESSAGE value="ClassandObject GetandSet" />
     <MESSAGE value="SuperCar" />
-    <MESSAGE value="Inheritance:Student" />
     <MESSAGE value="Inheritance:Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance:Person" />
+    <MESSAGE value="Inheritance:Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance:Student" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -988,8 +995,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="279">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
       </provider>
