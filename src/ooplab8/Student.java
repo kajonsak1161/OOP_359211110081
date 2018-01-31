@@ -1,21 +1,20 @@
 package ooplab8;
 
 import java.util.Date;
-// student is Person
-// Student is sub-class of person class
-// Person is super-class
+//student is person
+//student is sub-class of person class
+//person is super-class
 
-public class Student extends Person {
+public class Student extends Person{
     private String id;
     private String program;
-    public Student(String name, String gender,
-                   Date dateOfBirth, int age,
-                   String id, String program) {
-        super(name, gender, dateOfBirth, age);
+
+    public Student(String name, String gender, String dateofBirth, int age, String id, String program) {
+        super(name, gender, dateofBirth, age);
         this.id = id;
         this.program = program;
     }
-    //toString()
+    //tostring
 
     @Override
     public String toString() {
@@ -26,6 +25,7 @@ public class Student extends Person {
     }
 
     //getter and setter method
+
     public String getId() {
         return id;
     }
@@ -41,4 +41,4 @@ public class Student extends Person {
     public void setProgram(String program) {
         this.program = program;
     }
-}
+}//class
