@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="813c0c31-0b0a-4124-a892-bb78061529e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab2/TestVariable.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab9/MyPresonApp.java" afterPath="$PROJECT_DIR$/src/ooplab9/MyPresonApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestVariable.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab2/TestVariable.java">
+      <file leaf-file-name="MyPresonApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab9/MyPresonApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -141,6 +139,12 @@
               <item name="OOP_359211110081" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ooplab2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP_359211110081" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_359211110081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ooplab9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -675,7 +679,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517975049805</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="TestVariable">
+      <created>1517975461221</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1517975461221</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -742,7 +753,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="myString" />
     <MESSAGE value="myStringBuffer" />
     <MESSAGE value="3.1CalAge" />
     <MESSAGE value="ClassandObject GetandSet" />
@@ -767,7 +777,8 @@
     <MESSAGE value="Address9" />
     <MESSAGE value="Job9" />
     <MESSAGE value="MyPersonApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyPersonApp" />
+    <MESSAGE value="TestVariable" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestVariable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1184,18 +1195,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/MyPresonApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab2/TestVariable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/MyPresonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
