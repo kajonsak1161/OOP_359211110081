@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813c0c31-0b0a-4124-a892-bb78061529e9" name="Default" comment="defual">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/MyCarApp.java" />
+    <list default="true" id="813c0c31-0b0a-4124-a892-bb78061529e9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -609,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517970006205</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="MyCar9">
+      <created>1517971496241</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1517971496241</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -676,9 +680,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TestSwitch" />
-    <MESSAGE value="TestWhileLoop" />
-    <MESSAGE value="TestDoWhileLoop" />
     <MESSAGE value="TestMedthods" />
     <MESSAGE value="TestArray" />
     <MESSAGE value="InputDataToArray" />
@@ -701,7 +702,10 @@
     <MESSAGE value="Triangle" />
     <MESSAGE value="TriangleApp" />
     <MESSAGE value="defual" />
-    <option name="LAST_COMMIT_MESSAGE" value="defual" />
+    <MESSAGE value="My Car" />
+    <MESSAGE value="MyCar" />
+    <MESSAGE value="MyCar9" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyCar9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
